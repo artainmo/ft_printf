@@ -30,12 +30,10 @@ int	ft_modul(int modulo_type, va_list *arguments, int *ret_str_l, t_flags flag)
 int	f_p(va_list *arguments, const char *format, t_flags flag, char modulo_type)
 {
 	int i;
-	int l;
 	int writ;
 	int ret_str_l;
 
 	i = 0;
-	l = 0;
 	ret_str_l = 0;
 	while (format[i])
 	{
