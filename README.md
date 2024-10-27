@@ -8,4 +8,4 @@ You can use this project with our [associated unit-test](https://github.com/arta
 
 ## Retrospective note
 This project's structure is not clean. No subfolders are used. The [libft](https://github.com/artainmo/libft) is not used as a library.<br>
-It is not a great example of how to write a C program
+It is not a great example of how to write a C program unfortunately.
